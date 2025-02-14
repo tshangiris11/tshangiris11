@@ -1,3 +1,5 @@
+<h3 align="center">Hi 👋! My name is Tianyi Iris Shang<br>and I'm a Data Analyst from Shanghai, China</h3>
+
 ###
 
 <img align="right" height="161" src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47yhbo9vbb8b9xx90nmcejb0p81q5yj1up2coewg00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
