@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Tianyi Iris Shang<br>and I'm a Data Analyst from Shanghai, China</h3>
+<h3 align="center">Hi 👋! My name is Tianyi Iris Shang<br>and I'm a Data Analyst in Bay Area, CA</h3>
 
 ###
 
