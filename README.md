@@ -1,10 +1,36 @@
 <h3 align="center">Hi 👋! My name is Tianyi Iris Shang<br>and I'm a Data Analyst in Bay Area, CA</h3>
 
-###
+---
+
+🌟 **About Me**
+
+I’m a Master's student in Computational Social Science at UC Berkeley, graduating in May 2026. With a background in Psychology and Game Design, I bridge human behavior and data, specializing in data storytelling, UX research, and inclusive game analytics.
+
+Whether I'm uncovering disparities in internet access or researching player experience for accessible design, I love turning messy datasets into meaningful narratives. I’m passionate about building thoughtful tech—and making digital spaces more inclusive and fun. 😊
+
+📄 [View My Resume](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tianyi-iris-shang) | [Portfolio](#) | ✉️ [Email](mailto:tshangiris11@gmail.com)
+
+---
+
+🎓 **My Journey So Far**
+
+- 🧠 M.A., Computational Social Science — *University of California, Berkeley (Expected 2026)*
+- 🎮 B.A., Psychology with Honors, Minor in Game Studies & Design — *University of Illinois Urbana-Champaign (2024)*
+
+---
+
+🧰 **Tools in My Kit**
+
+- **🧪 Languages & Tools**: Python, R, SQL, Bash, Git, LaTeX, Markdown  
+- **📊 Data & ML**: pandas, NumPy, scikit-learn, statsmodels, caret, PyTorch, TensorFlow, Jupyter, RStudio  
+- **📈 Visualization**: ggplot2, seaborn, matplotlib, Leaflet, Tableau  
+- **🧠 UX & Research**: Qualtrics, MTurk, Figma, Jira, Unity, Mixed Methods  
+- **🤝 Collaboration**: Slack, Confluence, Notion, Microsoft 365, Google Workspace
+
+---
 
 <img align="right" height="240" src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47yhbo9vbb8b9xx90nmcejb0p81q5yj1up2coewg00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
@@ -68,26 +94,20 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
 <br clear="both">
+
+---
+
+📫 **Connect With Me**
 
 <div align="left">
   <a href="tshangiris" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="tshangiris11@gmail.com" target="_blank">
+  <a href="mailto:tshangiris11@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/tianyi-iris-shang" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tshangiris11/tshangiris11/output/snake.svg" alt="Snake animation" />
-
-###
