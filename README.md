@@ -14,7 +14,7 @@ I'm always exploring the synergy between human behavior, data, and technology to
 Connect with me and let’s talk about data, games, and the future of AI! ♾️  
 
 📄 [View/Download My Resume (2-page)](https://drive.google.com/file/d/1OYf6WhBFS9W6CB0501QE6Aa82HFCz-1i/view?usp=sharing)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tianyi-iris-shang) | [Portfolio](#) | ✉️ [Email](mailto:tshangiris11@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tianyi-iris-shang) | ✉️ [Email](mailto:tshangiris11@gmail.com)
 
 </td>
 <td style="width: 250px; text-align: center;">
