@@ -9,7 +9,7 @@
 🌟 **About Me**
 
 Nice to E-meet you! 🌎  
-I'm always exploring the synergy between human behavior, data, and technology to drive innovation, and always curious about the world. Whether it’s analyzing HR trends, optimizing gameplay experiences, or diving into AI-agent interactions, I love turning complex datasets into meaningful stories. Beyond analytics, I bring a gamer’s mindset—strategic, adaptive, and competitive—as a Collegiate Esports player.
+I'm always exploring the synergy between human behavior, data, and technology to drive innovation, and always curious about the world. Whether it’s analyzing HR trends, optimizing gameplay experiences, or diving into AI-agent interactions, I love turning complex datasets into meaningful stories. Beyond analytics, I bring a gamer’s mindset—strategic, adaptive, and competitive—as a Collegiate Esports player (Honor of Kings and Hearthstone!).
 
 Connect with me and let’s talk about data, games, and the future of AI! ♾️  
 
