@@ -18,8 +18,8 @@ Connect with me and let’s talk about data, games, and the future of AI! ♾️
 
 🎓 **My Journey So Far**
 
-- 🧠 M.A., Computational Social Science — *University of California, Berkeley (Expected 2026)*
-- 🎮 B.A., Psychology with Honors, Minor in Game Studies & Design — *University of Illinois Urbana-Champaign (2024)*
+- 🧠 M.A., Computational Social Science — *University of California, Berkeley (May 2025)
+- 🎮 B.A., Psychology with Honors, Minor in Game Studies & Design — *University of Illinois Urbana-Champaign (May 2024)
 
 ---
 
