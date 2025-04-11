@@ -4,9 +4,12 @@
 
 🌟 **About Me**
 
-I’m a Master's student in Computational Social Science at UC Berkeley, graduating in May 2026. With a background in Psychology and Game Design, I bridge human behavior and data, specializing in data storytelling, UX research, and inclusive game analytics.
+Hi, Nice to E-meet you! 🌎
+I'm always exploring the synergy between human behavior, data, and technology to drive innovation, and always curious about the world. Whether it’s analyzing HR trends, optimizing gameplay experiences, or diving into AI-agent interactions, I love turning complex datasets into meaningful stories. Beyond analytics, I bring a gamer’s mindset—strategic, adaptive, and competitive—as a Collegiate Esports player.
 
-Whether I'm uncovering disparities in internet access or researching player experience for accessible design, I love turning messy datasets into meaningful narratives. I’m passionate about building thoughtful tech—and making digital spaces more inclusive and fun. 😊
+I graduated with honors in Psychology and a minor in Game Studies & Design from University of Illinois Urbana-Champaign in 2024. Now I'm pursuing a Master’s in Computational Social Science at UC Berkeley.
+
+Connect with me and let’s talk about data, games, and the future of AI! ♾️
 
 📄 [View My Resume](#)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tianyi-iris-shang) | [Portfolio](#) | ✉️ [Email](mailto:tshangiris11@gmail.com)
