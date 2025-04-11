@@ -2,6 +2,9 @@
 
 ---
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div>
+
 🌟 **About Me**
 
 Hi, Nice to E-meet you! 🌎
@@ -13,6 +16,10 @@ Connect with me and let’s talk about data, games, and the future of AI! ♾️
 
 📄 [View My Resume](#)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tianyi-iris-shang) | [Portfolio](#) | ✉️ [Email](mailto:tshangiris11@gmail.com)
+
+  </div>
+  <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" height="200" alt="typing bear gif"/>
+</div>
 
 ---
 
@@ -32,8 +39,6 @@ Connect with me and let’s talk about data, games, and the future of AI! ♾️
 - **🤝 Collaboration**: Slack, Confluence, Notion, Microsoft 365, Google Workspace
 
 ---
-
-<img align="right" height="240" src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47yhbo9vbb8b9xx90nmcejb0p81q5yj1up2coewg00&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
@@ -96,8 +101,6 @@ Connect with me and let’s talk about data, games, and the future of AI! ♾️
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
-
-<br clear="both">
 
 ---
 
